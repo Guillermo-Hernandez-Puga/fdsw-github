@@ -12,12 +12,23 @@ body {
 }
 
 /* Mis trabajos */
-
+.image-top{
+  
+   justify-content: flex-end;
+   display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+
+  
+  
 }
 
 /* Contacto */
